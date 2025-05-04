@@ -1,6 +1,7 @@
 # flutter_tips
 
 Clean architecture Implementation
+https://gist.github.com/ahmedyehya92/0257809d6fbd3047e408869f3d747a2c
 
 lib/
   -core/
@@ -13,7 +14,12 @@ lib/
     -widgets/
   -features/
     -auth/
+      _presentation/
+        -bloc/
+        -pages/
+        -widgets/
       -data/
       -models/
       -repositories/
+     
   -config/
