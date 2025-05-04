@@ -12,7 +12,8 @@ lib/
     -theme/
     -widgets/
   -features/
-    -data/
-    -models/
-    -repositories/
+    -auth/
+      -data/
+      -models/
+      -repositories/
   -config/
